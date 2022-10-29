@@ -1,0 +1,2 @@
+# Set GitHub linguist to set HTML as SASS, for repo stats.
+*.html linguist-language=javascript
