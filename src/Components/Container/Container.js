@@ -4,7 +4,7 @@ const Container = (props) => {
   return (
     <div className='body'>
       <div className='container'>
-      { props.children }
+        { props.children }
       </div>
     </div>
   );
