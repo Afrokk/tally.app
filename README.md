@@ -16,7 +16,7 @@
 
 ## About The Project
 
-An overbuilt web-app for Score-Keeping. Supports logging, custom rounds, and more.
+An overbuilt web-app for Score-Keeping. Supports timed rounds, logging, custom rounds, and more.
 
 
 ## Contact
