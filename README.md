@@ -4,7 +4,7 @@
     <img src="assets/clip.png" alt="Logo" width="315" height="315">
   </a>
 
-  <h3 align="center">Tally.App</h3>
+  <h3 align="center">Tally</h3>
 
   <p align="center">
     An overbuilt Score-Keeper web-app.
@@ -16,7 +16,7 @@
 
 ## About The Project
 
-An overbuilt web-app for Score-Keeping. Supports logging, custom rounds, and more.
+An overbuilt web-app for Score-Keeping. Supports timed rounds, logging, custom rounds, and more.
 
 
 ## Contact
